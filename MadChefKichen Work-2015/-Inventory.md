@@ -1,0 +1,154 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# MadChefKichen Work-2015
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `Foundation Logo/` - Directory containing related files for this portfolio item.
+- `Gift Certificates/` - Directory containing related files for this portfolio item.
+- `inkzine-plus/` - Directory containing related files for this portfolio item.
+- `MadChefKitchen/` - Directory containing related files for this portfolio item.
+- `public_html/` - Directory containing related files for this portfolio item.
+- `12063572_10153195363256500_2556409996915599251_n.jpg` - File, 16.8 KB.
+- `13436.jpg` - File, 294.5 KB.
+- `2014-npf-logo-transparent.png` - File, 6.6 KB.
+- `20140223_193143-1024x708.jpg` - File, 93.5 KB.
+- `20151003_160400.jpg` - File, 1.8 MB.
+- `20151006_100106-e1446363355405-375x500.jpg` - File, 101.0 KB.
+- `20151007_135156.jpg` - File, 1.8 MB.
+- `20151008_163410.jpg` - File, 2.4 MB.
+- `20151021_132332.jpg` - File, 2.5 MB.
+- `20151021_134626.jpg` - File, 2.2 MB.
+- `20151024_120402-667x500.jpg` - File, 89.6 KB.
+- `20151025_104935-667x500.jpg` - File, 113.4 KB.
+- `20151025_124123-667x500.jpg` - File, 107.0 KB.
+- `242691.png` - File, 19.3 KB.
+- `402090 Orchid Purple Beaded Charger Plates.JPG` - File, 27.3 KB.
+- `6651611-Scroll-of-old-parchment-Object-over-white-Stock-Photo-scroll-indian-background.jpg` - File, 148.3 KB.
+- `8103545-3d-illustration-of-an-ancient-paper-scroll-isolated-over-white-background-Stock-Illustration.jpg` - File, 116.0 KB.
+- `addClass.php` - File, 5.3 KB.
+- `admin-ajax.jpg` - File, 21.2 KB.
+- `admin-ajax1.jpg` - File, 36.2 KB.
+- `admin-ajax1_edited-1.jpg` - File, 31.6 KB.
+- `admin-ajax2.jpg` - File, 27.2 KB.
+- `admin-ajax3.jpg` - File, 50.9 KB.
+- `backg.jpg` - File, 81.5 KB.
+- `Bearnaise Test.jpg` - File, 128.2 KB.
+- `blank-notebook-old-wood-cutting-board-two-notebooks-recipes-menu-used-wooden-31525531.jpg` - File, 177.5 KB.
+- `BlankMale.jpg` - File, 42.8 KB.
+- `calendarCell.php` - File, 14.6 KB.
+- `calendarT.php` - File, 21.7 KB.
+- `Capture.JPG` - File, 44.9 KB.
+- `catering.jpg` - File, 53.0 KB.
+- `catering.php` - File, 152 B.
+- `cb1.jpg` - File, 90.3 KB.
+- `cb2.jpg` - File, 93.9 KB.
+- `chef.gif` - File, 14.7 KB.
+- `chef1.gif` - File, 5.8 KB.
+- `chef2.gif` - File, 16.2 KB.
+- `chef_teamwork_sm_wm.gif` - File, 50.7 KB.
+- `chefblog.php` - File, 152 B.
+- `Christine Rosas.jpg` - File, 149.8 KB.
+- `Christine Rosas.png` - File, 48.2 KB.
+- `Clarified-Butter.jpg` - File, 111.2 KB.
+- `classEventsCell.php` - File, 29.5 KB.
+- `Classic-Bearnaise-190x130.jpg` - File, 10.4 KB.
+- `Classic-Bearnaise.jpg` - File, 125.3 KB.
+- `contact-form.php` - File, 9.6 KB.
+- `contact-formCell.php` - File, 16.6 KB.
+- `cooking-classes.php` - File, 10.2 KB.
+- `cop1.JPG` - File, 88.9 KB.
+- `cutting_board_handle.jpg` - File, 16.1 KB.
+- `cuttingboard.jpg` - File, 159.3 KB.
+- `cuttingboard2.jpg` - File, 981.0 KB.
+- `database.php` - File, 1.0 KB.
+- `Dave Matthews.jpg` - File, 21.6 KB.
+- `Dave-Matthews.jpg` - File, 43.1 KB.
+- `David Salgado.jpg` - File, 23.8 KB.
+- `demonstration.php` - File, 152 B.
+- `explore.php` - File, 5.6 KB.
+- `exploreCell.php` - File, 8.8 KB.
+- `FemaleNP.png` - File, 1.9 KB.
+- `Food-&-ingredients.jpg` - File, 106.7 KB.
+- `Food-and-ingredients-1-333x500.jpg` - File, 74.4 KB.
+- `Food-and-ingredients.jpg` - File, 132.7 KB.
+- `form.php` - File, 22.2 KB.
+- `galleryc.php` - File, 9.2 KB.
+- `galleryCell.php` - File, 2.4 KB.
+- `gallerymangmnt.php` - File, 2.6 KB.
+- `givingback.php` - File, 3.5 KB.
+- `global_network_sm_wm.gif` - File, 287.1 KB.
+- `global_teamwork_holding_hands_sm_wm.gif` - File, 51.0 KB.
+- `globe_image_sm_wm.gif` - File, 272.0 KB.
+- `graphics-school-241143.gif` - File, 5.4 KB.
+- `graphics-school-494050.gif` - File, 5.3 KB.
+- `Healthy Quinoa Salad.jpg` - File, 33.4 KB.
+- `HiringCell.php` - File, 27.2 KB.
+- `images.jpg` - File, 8.1 KB.
+- `img98c.jpg` - File, 19.7 KB.
+- `Keri Bowman.jpg` - File, 31.6 KB.
+- `laptop_mail_PA_sm_wm.gif` - File, 72.0 KB.
+- `logo (1).png` - File, 8.4 KB.
+- `logo.png` - File, 11.0 KB.
+- `MadAboutPL.jpg` - File, 52.0 KB.
+- `MadAboutProductLine.jpg` - File, 51.7 KB.
+- `MaleNP.png` - File, 3.1 KB.
+- `management.php` - File, 251 B.
+- `MCKstore.php` - File, 2.3 KB.
+- `mgmntmenu.php` - File, 2.8 KB.
+- `mngmntmenuCell.php` - File, 2.9 KB.
+- `Mobile_Detect.php` - File, 78.1 KB.
+- `modern-cutting-boards.jpg` - File, 48.0 KB.
+- `navigation.php` - File, 778 B.
+- `old_paper_scroll_background_by_annerackham.jpg` - File, 71.0 KB.
+- `organizedkitchen.php` - File, 152 B.
+- `our-chefs.php` - File, 3.8 KB.
+- `our-story.php` - File, 2.9 KB.
+- `P0042-Forrest Green-01-600x600.jpg` - File, 59.9 KB.
+- `P0046-Red-600x600.jpg` - File, 85.9 KB.
+- `personalchef.php` - File, 152 B.
+- `privatechef.php` - File, 152 B.
+- `profile-photo-500x500.jpg` - File, 36.9 KB.
+- `recipe.jpg` - File, 53.6 KB.
+- `recipeEvents.php` - File, 29.5 KB.
+- `recipeEventsCell.php` - File, 28.9 KB.
+- `recipes.php` - File, 6.8 KB.
+- `recipesCell.php` - File, 5.9 KB.
+- `royal blue.jpg` - File, 9.9 KB.
+- `scroll.png` - File, 172.1 KB.
+- `searchAll.php` - File, 1.6 KB.
+- `services.gif` - File, 85.0 KB.
+- `ShowProductImage-137.jpg` - File, 116.4 KB.
+- `SignReg.php` - File, 10.0 KB.
+- `SignRegCell.php` - File, 10.0 KB.
+- `slide-back.png` - File, 923 B.
+- `smenu.php` - File, 7.6 KB.
+- `smenucell.php` - File, 2.2 KB.
+- `sponsors.php` - File, 152 B.
+- `stick_figure_working_laptop_desk_sm_wm.gif` - File, 44.2 KB.
+- `stick_figures_team_puzzle_sm_wm.gif` - File, 66.0 KB.
+- `stock-photo-pasta-ingredients-concept-on-black-slate-background-viewed-from-the-top-172208183.jpg` - File, 46.2 KB.
+- `stock-photo-platinum-plastic-chrome-alphabet-letters-in-uppercase-22884838.jpg` - File, 34.2 KB.
+- `teamwork_rotate_earth_pa_sm_wm.gif` - File, 61.3 KB.
+- `techblogstop-25.jpg` - File, 171.2 KB.
+- `techblogstop-28.png` - File, 675.6 KB.
+- `techblogstop-9.jpg` - File, 130.4 KB.
+- `templatepg.php` - File, 9.2 KB.
+- `triangle-1.png` - File, 30.1 KB.
+- `triangle-2.png` - File, 209.1 KB.
+- `triangle-3.png` - File, 24.9 KB.
+- `unnamed (1).jpg` - File, 18.2 KB.
+- `unnamed (1).png` - File, 23.4 KB.
+- `unnamed (2).jpg` - File, 21.6 KB.
+- `unnamed (2).png` - File, 16.8 KB.
+- `unnamed (3).png` - File, 22.2 KB.
+- `unnamed (4).png` - File, 41.9 KB.
+- `unnamed.jpg` - File, 56.3 KB.
+- `unnamed.png` - File, 6.2 KB.
+- `usersForm.php` - File, 2.2 KB.
+- `veggie-spray-two.png` - File, 218.6 KB.
+- `welcome.gif` - File, 57.3 KB.
+- `Welcome.php` - File, 5.1 KB.
+- `WelcomeCell.php` - File, 5.0 KB.
+- `world_spin_in_hands_PA_sm_wm.gif` - File, 97.9 KB.

@@ -1,0 +1,145 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Foundation Logo
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `1000px-Flag_of_Colombia.svg.png` - File, 4.1 KB.
+- `1000px-Flag_of_Honduras.svg.png` - File, 9.6 KB.
+- `20150211_210933.jpeg` - File, 142.5 KB.
+- `20150211_211355.jpg` - File, 73.9 KB.
+- `20150221_142342.jpeg` - File, 217.7 KB.
+- `20150418_115101.jpg` - File, 222.7 KB.
+- `20150418_191349.jpg` - File, 13.6 MB.
+- `20150418_193208.jpg` - File, 5.4 MB.
+- `20150418_194419.jpg` - File, 9.8 MB.
+- `20150418_200629.jpg` - File, 5.2 MB.
+- `20150418_223036.jpg` - File, 4.4 MB.
+- `20150418_223804.jpg` - File, 10.6 MB.
+- `20150418_223830.jpg` - File, 11.9 MB.
+- `20150418_223932.jpg` - File, 13.3 MB.
+- `20150418_230731.jpg` - File, 10.8 MB.
+- `20150418_232035.jpg` - File, 12.6 MB.
+- `20150418_233315.jpg` - File, 11.8 MB.
+- `20150418_233839.jpg` - File, 12.7 MB.
+- `20150419_010256.jpg` - File, 13.5 MB.
+- `20150419_010524.jpg` - File, 13.0 MB.
+- `20150419_010707.jpg` - File, 11.8 MB.
+- `20150422_000715.jpg` - File, 12.6 MB.
+- `argentina_grunge_flag_by_think0-d1y29ne.jpg` - File, 372.8 KB.
+- `banner-4.jpg` - File, 344.7 KB.
+- `Belize-flag.png` - File, 246.6 KB.
+- `cuban-flag.gif` - File, 5.6 KB.
+- `Dominican Children.jpg` - File, 184.4 KB.
+- `Dominican Children2.jpg` - File, 384.5 KB.
+- `Dominican Children21.jpg` - File, 1.3 MB.
+- `dominican_republic_640.png` - File, 120.6 KB.
+- `Dominican_Students.jpg` - File, 218.3 KB.
+- `download.jpg` - File, 8.2 KB.
+- `flag-domrep.jpg` - File, 23.3 KB.
+- `Flag_of_Ecuador.svg.png` - File, 222.6 KB.
+- `Flag_of_Jamaica.svg.png` - File, 16.9 KB.
+- `Flag_of_Panama.svg.png` - File, 27.0 KB.
+- `Flag_of_Puerto_Rico.svg.png` - File, 42.1 KB.
+- `Flag_of_Saint_Lucia.svg.png` - File, 22.0 KB.
+- `Flagbig.GIF` - File, 3.9 KB.
+- `Flags-Brazil.jpg` - File, 227.3 KB.
+- `grunge_flag_of_bahamas_by_al_zoro-d4qe8kd.jpg` - File, 16.3 KB.
+- `guatemala-flag_121307131.gif` - File, 96.1 KB.
+- `Image (2).jpg` - File, 539.8 KB.
+- `Image (3).jpg` - File, 823.3 KB.
+- `Image.jpg` - File, 567.0 KB.
+- `images (1).jpg` - File, 6.6 KB.
+- `images (1).png` - File, 4.3 KB.
+- `images (2).jpg` - File, 3.9 KB.
+- `images (2).png` - File, 3.3 KB.
+- `images (3).jpg` - File, 23.2 KB.
+- `images (3).png` - File, 4.7 KB.
+- `images (4).jpg` - File, 9.3 KB.
+- `images (5) copy 3_edited-1.jpg` - File, 36.1 KB.
+- `images (5) copy_edited-1.jpg` - File, 65.7 KB.
+- `images (5).jpg` - File, 14.0 KB.
+- `images (5)_edited-3.jpg` - File, 64.9 KB.
+- `images (6).jpg` - File, 9.3 KB.
+- `images.jpg` - File, 6.6 KB.
+- `images.png` - File, 4.7 KB.
+- `JVF.jpg` - File, 135.2 KB.
+- `JVFHome.jpeg` - File, 160.8 KB.
+- `JVFHome1.jpeg` - File, 125.3 KB.
+- `JVFLogo2.jpg` - File, 88.5 KB.
+- `k4233045.jpg` - File, 1.8 KB.
+- `logo.jpg` - File, 126.6 KB.
+- `logo.png` - File, 11.5 KB.
+- `logo1.jpg` - File, 1.1 MB.
+- `logo2.jpg` - File, 1.2 MB.
+- `logo3.jpg` - File, 1.2 MB.
+- `logo4.jpg` - File, 1.2 MB.
+- `logo5.jpg` - File, 1.2 MB.
+- `logoe.png` - File, 8.2 KB.
+- `logos.jpg` - File, 54.6 KB.
+- `logos1 copy.jpg` - File, 159.0 KB.
+- `logos1.jpg` - File, 127.3 KB.
+- `logos2.jpg` - File, 73.6 KB.
+- `logos2_edited-2.jpg` - File, 108.7 KB.
+- `logos2_edited-4.jpg` - File, 55.9 KB.
+- `logos2_edited-5.jpg` - File, 61.9 KB.
+- `logos2_edited-7 (1).jpg` - File, 93.7 KB.
+- `logos2_edited-7.jpg` - File, 167.6 KB.
+- `logoTest1.JPG` - File, 53.7 KB.
+- `logoTest2.JPG` - File, 53.7 KB.
+- `logoTest2_edited-10.jpg` - File, 82.1 KB.
+- `logoTest2_edited-11.jpg` - File, 64.2 KB.
+- `logoTest2_edited-12.jpg` - File, 78.6 KB.
+- `logoTest2_edited-13.jpg` - File, 82.6 KB.
+- `logoTest2_edited-14.jpg` - File, 46.7 KB.
+- `logoTest2_edited-15 copy.jpg` - File, 29.2 KB.
+- `logoTest2_edited-15.jpg` - File, 46.6 KB.
+- `logoTest2_edited-16 copy.jpg` - File, 30.2 KB.
+- `logoTest2_edited-17 copy.jpg` - File, 34.8 KB.
+- `logoTest2_edited-18 copy.jpg` - File, 34.5 KB.
+- `logoTest2_edited-19.jpg` - File, 69.7 KB.
+- `logoTest2_edited-20.jpg` - File, 34.9 KB.
+- `logoTest2_edited-21.jpg` - File, 51.7 KB.
+- `logoTest2_edited-21copy.jpg` - File, 40.4 KB.
+- `logoTest2_edited-9.jpg` - File, 40.4 KB.
+- `mexico-free-flag-desktop.jpg` - File, 50.4 KB.
+- `Offer Letter.png` - File, 34.2 KB.
+- `one.jpg` - File, 61.5 KB.
+- `Peru-flag-wallpaper.jpg` - File, 949.9 KB.
+- `py_f.gif` - File, 2.3 KB.
+- `resize_image.jpg` - File, 14.6 KB.
+- `scan0001.jpg` - File, 678.3 KB.
+- `shooting-stars-vector.jpg` - File, 29.0 KB.
+- `shooting-stars1-vector.jpg` - File, 69.1 KB.
+- `SI_20150121_205730.jpeg` - File, 6.8 KB.
+- `star-tracks-flying-stars-different-style-30940057.jpg` - File, 43.6 KB.
+- `star-tracks-flying-stars-different-style-309400j57.jpg` - File, 85.9 KB.
+- `stock-illustration-15863095-flying-star-banners.jpg` - File, 135.6 KB.
+- `stock-photo-a-lot-of-stars-flying-after-powerful-explosion-77425705.jpg` - File, 53.2 KB.
+- `stock-photo-letter-j-from-alphabet-of-hearts-68749702.jpg` - File, 24.8 KB.
+- `stock-vector-shooting-star-banner-vector-illustration-82429777.jpg` - File, 4.0 KB.
+- `Test3.jpg` - File, 50.4 KB.
+- `test31.jpg` - File, 58.3 KB.
+- `test32.jpg` - File, 56.3 KB.
+- `test33.jpg` - File, 105.5 KB.
+- `test34.jpg` - File, 45.2 KB.
+- `test35.jpg` - File, 86.4 KB.
+- `Test3_edited-1.jpg` - File, 101.7 KB.
+- `Test3_edited-10.jpg` - File, 56.7 KB.
+- `Test3_edited-2.jpg` - File, 59.3 KB.
+- `Test3_edited-3.jpg` - File, 58.9 KB.
+- `Test3_edited-4.jpg` - File, 83.8 KB.
+- `Test3_edited-5.jpg` - File, 43.3 KB.
+- `Test3_edited-6.jpg` - File, 86.8 KB.
+- `Test3_edited-7.jpg` - File, 72.6 KB.
+- `Test3_edited-8.jpg` - File, 55.4 KB.
+- `Test3_edited-9.jpg` - File, 53.9 KB.
+- `three.jpg` - File, 60.7 KB.
+- `TJVF.jpg` - File, 18.0 KB.
+- `two.jpg` - File, 32.9 KB.
+- `Untitled.jpg` - File, 129.0 KB.
+- `Untitled.png` - File, 28.1 KB.
+- `uruguay2.png` - File, 24.9 KB.
+- `velarge.gif` - File, 5.3 KB.
+- `xr8nF3Z.gif` - File, 33.3 KB.
