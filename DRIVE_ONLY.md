@@ -17,3 +17,9 @@ These were empty or README-only after importing GitHub-appropriate files. Check 
 ## Import Status
 
 - `1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge`: needs review, rclone exit 124
+
+## Placeholder Paths Removed During Final Audit
+
+These GitHub paths contained only generated README or placeholder files after simple content import. They were removed so the repo does not show folders that look useful but contain no GitHub-appropriate data.
+
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/__MACOSX/`
