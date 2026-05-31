@@ -5,10 +5,17 @@ Paper, report, and presentation files imported into GitHub are grouped here for 
 
 ## Reports
 
+- `reports/ABOUT_APACHE.txt`
 - `reports/Additional Forms (2015).pdf`
+- `reports/ApplicationParts.txt`
 - `reports/Card-No1-Information.pdf`
 - `reports/cbu.txt`
+- `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- `reports/changelog--from-MadChefKitchen-inkzine.txt`
 - `reports/changelog.txt`
+- `reports/CHANGES--from-xampp-apache.txt`
+- `reports/changes.txt`
+- `reports/Copy of index.txt`
 - `reports/Director of Marketing (Autosaved).docx`
 - `reports/Director of Marketing.docx`
 - `reports/Doc1.pdf`
@@ -41,21 +48,39 @@ Paper, report, and presentation files imported into GitHub are grouped here for 
 - `reports/hbu.txt`
 - `reports/HelpScript.txt`
 - `reports/hw3 (for loops).pdf`
+- `reports/INSTALL.txt`
 - `reports/jbu.txt`
 - `reports/Job Specifications.docx`
+- `reports/license--from-inkzine-plus-inkzine-plus.txt`
 - `reports/license--from-MadChefKichen-Work-2015-inkzine-plus.txt`
+- `reports/license--from-MadChefKitchen-inkzine.txt`
+- `reports/license--from-MadChefKitchen-starsofa.txt`
 - `reports/LICENSE--from-repo-font.txt`
+- `reports/LICENSE--from-starsofa-font.txt`
+- `reports/LICENSE--from-xampp-apache.txt`
 - `reports/license.txt`
 - `reports/MadChefKitchen--from-MadChefKichen-Work-2015-MadChefKitchen.pdf`
 - `reports/MadChefKitchen.pdf`
 - `reports/myscripts.txt`
 - `reports/mystyle.txt`
+- `reports/nav buttons.txt`
+- `reports/NOTICE.txt`
 - `reports/Offer Letter Piter Z Garcia.docx`
 - `reports/Offer Letter Piter Z Garcia.pdf`
 - `reports/Offer_Letter_Piter_Z_Garcia.docx`
+- `reports/OPENSSL-NEWS.txt`
+- `reports/OPENSSL-README.txt`
+- `reports/passwords.txt`
+- `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- `reports/readme--from-inkzine-plus-languages.txt`
 - `reports/readme--from-MadChefKichen-Work-2015-MadChefKitchen.txt`
+- `reports/readme--from-MadChefKitchen-inkzine.txt`
 - `reports/README--from-repo-font.txt`
+- `reports/README--from-starsofa-font.txt`
+- `reports/README--from-xampp-apache.txt`
 - `reports/readme.txt`
+- `reports/readme_de.txt`
+- `reports/readme_en.txt`
 - `reports/simple-products.csv`
 - `reports/Surfas Schedule v2.docx`
 - `reports/Surfas Schedule.docx`

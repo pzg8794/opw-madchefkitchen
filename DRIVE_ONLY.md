@@ -7,6 +7,13 @@ GitHub contains the simple project files: code, papers, reports, presentations, 
 
 - https://drive.google.com/drive/folders/1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge
 
+## Placeholder Directories Removed From GitHub
+
+These were empty or README-only after importing GitHub-appropriate files. Check the Drive source above for heavy/data-only material.
+
+- `MadChefKichen Work-2015/inkzine-plus/languages/`
+- `MadChefKichen Work-2015/xampp/apache/`
+
 ## Import Status
 
 - `1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge`: needs review, rclone exit 124

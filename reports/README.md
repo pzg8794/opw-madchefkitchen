@@ -5,10 +5,17 @@ This index keeps the directory navigable and points each item to its current rol
 
 ## Contents
 
+- `ABOUT_APACHE.txt` - File, 13.4 KB.
 - `Additional Forms (2015).pdf` - File, 1.4 MB.
+- `ApplicationParts.txt` - File, 1.9 KB.
 - `Card-No1-Information.pdf` - File, 1.1 MB.
 - `cbu.txt` - File, 6.1 KB.
+- `changelog--from-inkzine-plus-inkzine-plus.txt` - File, 49 B.
+- `changelog--from-MadChefKitchen-inkzine.txt` - File, 1.7 KB.
 - `changelog.txt` - File, 141 B.
+- `CHANGES--from-xampp-apache.txt` - File, 164.6 KB.
+- `changes.txt` - File, 753 B.
+- `Copy of index.txt` - File, 545 B.
 - `Director of Marketing (Autosaved).docx` - File, 14.9 KB.
 - `Director of Marketing.docx` - File, 17.2 KB.
 - `Doc1.pdf` - File, 99.1 KB.
@@ -41,21 +48,39 @@ This index keeps the directory navigable and points each item to its current rol
 - `hbu.txt` - File, 5.6 KB.
 - `HelpScript.txt` - File, 4.7 KB.
 - `hw3 (for loops).pdf` - File, 155.4 KB.
+- `INSTALL.txt` - File, 4.8 KB.
 - `jbu.txt` - File, 1020 B.
 - `Job Specifications.docx` - File, 20.3 KB.
+- `license--from-inkzine-plus-inkzine-plus.txt` - File, 34.3 KB.
 - `license--from-MadChefKichen-Work-2015-inkzine-plus.txt` - File, 35.0 KB.
+- `license--from-MadChefKitchen-inkzine.txt` - File, 35.0 KB.
+- `license--from-MadChefKitchen-starsofa.txt` - File, 1.9 KB.
 - `LICENSE--from-repo-font.txt` - File, 241 B.
+- `LICENSE--from-starsofa-font.txt` - File, 241 B.
+- `LICENSE--from-xampp-apache.txt` - File, 37.8 KB.
 - `license.txt` - File, 1.8 KB.
 - `MadChefKitchen--from-MadChefKichen-Work-2015-MadChefKitchen.pdf` - File, 3.9 MB.
 - `MadChefKitchen.pdf` - File, 2.1 MB.
 - `myscripts.txt` - File, 1020 B.
 - `mystyle.txt` - File, 4.9 KB.
+- `nav buttons.txt` - File, 300 B.
+- `NOTICE.txt` - File, 1.6 KB.
 - `Offer Letter Piter Z Garcia.docx` - File, 41.3 KB.
 - `Offer Letter Piter Z Garcia.pdf` - File, 34.7 KB.
 - `Offer_Letter_Piter_Z_Garcia.docx` - File, 117.3 KB.
+- `OPENSSL-NEWS.txt` - File, 31.2 KB.
+- `OPENSSL-README.txt` - File, 10.3 KB.
+- `passwords.txt` - File, 822 B.
+- `readme--from-inkzine-plus-inkzine-plus.txt` - File, 2.8 KB.
+- `readme--from-inkzine-plus-languages.txt` - File, 576 B.
 - `readme--from-MadChefKichen-Work-2015-MadChefKitchen.txt` - File, 1.9 KB.
+- `readme--from-MadChefKitchen-inkzine.txt` - File, 2.9 KB.
 - `README--from-repo-font.txt` - File, 1.8 KB.
+- `README--from-starsofa-font.txt` - File, 1.8 KB.
+- `README--from-xampp-apache.txt` - File, 4.6 KB.
 - `readme.txt` - File, 208 B.
+- `readme_de.txt` - File, 7.9 KB.
+- `readme_en.txt` - File, 7.7 KB.
 - `simple-products.csv` - File, 106 B.
 - `Surfas Schedule v2.docx` - File, 17.5 KB.
 - `Surfas Schedule.docx` - File, 15.0 KB.

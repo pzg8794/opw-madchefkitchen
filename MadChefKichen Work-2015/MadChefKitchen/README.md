@@ -5,6 +5,10 @@ This index keeps the directory navigable and points each item to its current rol
 
 ## Contents
 
+- `inkzine/` - Directory containing related files for this portfolio item.
+- `inkzine-plus/` - Directory containing related files for this portfolio item.
+- `other files/` - Directory containing related files for this portfolio item.
+- `starsofa/` - Directory containing related files for this portfolio item.
 - `144053502395509.gif` - File, 4.8 KB.
 - `about.php` - File, 342 B.
 - `blog-daily.jpg` - File, 30.9 KB.

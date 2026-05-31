@@ -7,9 +7,12 @@ This index keeps the directory navigable and points each item to its current rol
 
 - `Foundation Logo/` - Directory containing related files for this portfolio item.
 - `Gift Certificates/` - Directory containing related files for this portfolio item.
+- `htdocs_keep/` - Directory containing related files for this portfolio item.
 - `inkzine-plus/` - Directory containing related files for this portfolio item.
 - `MadChefKitchen/` - Directory containing related files for this portfolio item.
 - `public_html/` - Directory containing related files for this portfolio item.
+- `starsofa/` - Directory containing related files for this portfolio item.
+- `xampp/` - Directory containing related files for this portfolio item.
 - `12063572_10153195363256500_2556409996915599251_n.jpg` - File, 16.8 KB.
 - `13436.jpg` - File, 294.5 KB.
 - `2014-npf-logo-transparent.png` - File, 6.6 KB.

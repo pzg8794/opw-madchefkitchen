@@ -5,6 +5,7 @@ This index keeps the directory navigable and points each item to its current rol
 
 ## Contents
 
+- `New folder/` - Directory containing related files for this portfolio item.
 - `1000px-Flag_of_Colombia.svg.png` - File, 4.1 KB.
 - `1000px-Flag_of_Honduras.svg.png` - File, 9.6 KB.
 - `20150211_210933.jpeg` - File, 142.5 KB.

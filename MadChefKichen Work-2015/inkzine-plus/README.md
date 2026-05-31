@@ -5,6 +5,12 @@ This index keeps the directory navigable and points each item to its current rol
 
 ## Contents
 
+- `classes/` - Directory containing related files for this portfolio item.
+- `css/` - Directory containing related files for this portfolio item.
+- `image/` - Directory containing related files for this portfolio item.
+- `images/` - Directory containing related files for this portfolio item.
+- `inc/` - Directory containing related files for this portfolio item.
+- `js/` - Directory containing related files for this portfolio item.
 - `404.php` - File, 823 B.
 - `archive.php` - File, 3.2 KB.
 - `author.php` - File, 1.6 KB.
